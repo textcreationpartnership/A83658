@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bill against buying and selling offices, and to establish a right disposition of offices for the consists of these following heads.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83658</idno><idno type="EEBO-CITATION">45097747</idno>
+  <idno type="VID">171340</idno>
+  <idno type="EEBO-PROQUEST">2240881033</idno>
+  
+            <idno type="STC">Wing E2540B</idno>
+            <idno type="STC">ESTC R226302</idno>
+            <idno type="OCLC">45097747</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bill against buying and selling offices, and to establish a right disposition of offices for the consists of these following heads.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: folded with some loss of print.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sale of public offices --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="bill">
+            <pb facs="tcp:171340:1"/>
+            <head>The BILL against Buying and Selling Offices, and to Establish a right Disposition of Offices for the future, Consists of these following Heads.</head>
+            <div type="section">
+               <list>
+                  <item>I. THAT Offices shall be disposed of hereafter by Lott as they be<g ref="char:EOLhyphen"/>come void; and that not any but Persons well Qualified, or such as be, or can be servisable to the Publick, shall be Competi<g ref="char:EOLhyphen"/>tors.</item>
+                  <item>II. THAT the first Years Profits of Offices as they become void shall be paid to Their MAIESTIES in two Years time.</item>
+                  <item>III. THAT a Table of the due Fees of Lawyers, Advocates, Officers, Attor<g ref="char:EOLhyphen"/>neys, Clarks, Solicitors, Proctors, and Paraters, shall be hung up in every Court and Office, and the <hi>Stat. 3 Jacobi.</hi> 1. cap. 7. be put in Execution.</item>
+                  <item>IV. THAT the Fines and Forfeitures of such as disturb either Crown or People in their just Rights and Properties, shall be duely Answered. And that Ministers, Judges, Attorneys, and Solicitor General shall have Salary certain, and no contingent Fees or Perquisits to support the Dignity of their Places, and make them free to Punish such as be under their Charge, who neglect or discharge not their Duties to the Publick,</item>
+               </list>
+            </div>
+            <div type="section">
+               <head>Reasons Humbly offered for the Bill to pass.</head>
+               <p>The Bill as drawn is no more then a Declaration of the Laws already made and in force, and to have them duly and impartially Executed. For after King <hi>John</hi> and his Evil Councellors had wasted the Publick Treasure, and made havock of all Order and Government, by Trading and Trafficking with Offices, Oaths and Laws. <hi>It w<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Provided,</hi>
+               </p>
+               <p>
+                  <note n="*" place="margin">Magna Charta. 9 Hen. 3. cap. 29.</note> That Justice shall not be sold, delaid or denied to any. That <note n="†" place="margin">2 Hen. 6. cap. 10. 12 Rich. 2. cap. 2.</note> not any Person, shall be Advanced to Office for Money, Favour or Affection, but upon Merrit. That <note n="*" place="margin">5 and 6 <hi>Edward</hi> 6. cap. 16.</note> he who sells an Office shall Forseit his Estate therein, and he that buyes shall be disabled to hold it; And <note n="†" place="margin">
+                     <hi>Petition of Rights</hi> 3 Car. 1.</note> every Person is sworn to serve the KING according to the Laws and Statutes of the Realm.</p>
+               <p>
+                  <note n="*" place="margin">18 Edw. 3. St. 4. 20 Edw. 3 cap. 1.</note> It is also Adjudged-Bribery for any in <hi>Judical</hi> Place, to take Money, Fee, or Gift of any private Person: And <note n="†" place="margin">Iust. 3 Part so. 145. 148. Vernons <hi>Case,</hi> Inst. 1 Part fol. 234.</note> one that Sold an Office lost his Estate therein, and the Purchaser was disabled to hold it: Whereupon it was granted to a third Person for Life.</p>
+               <p>
+                  <note n="*" place="margin">Inst. 1 Part fol. 3.</note>
+                  <hi>It was also Provided,</hi> That such Persons as Challenge any Office or other thing of Value without express mention of the Name and Value, shall,be Punished for Deceit: <note place="margin">† 1 Hen. 4. cap. 6.</note> And the Grant, Commissions or Letters Patents shall be void; and this Law is to prevent the KINGS parting with things of grea<g ref="char:EOLhyphen"/>ter Value then he knows of or intendeth; Because it's presumed, when Persons of little or no Merit obtained beneficial Grants, that Ministers shared with them.</p>
+               <p>Offices are proper rewards for good Services. <note place="margin">1 Hen. 4. Co. Inst. 4. Part. fol. 56.</note>
+                  <hi>It was therefore provided,</hi> That such as had been servisable to the Publick shall be rewarded with Offices of the KINGS Gift.</p>
+               <p>The many Presidents upon Record shew, <note place="margin">
+                     <hi>Vide</hi> The Patents upon Record in the <hi>Tower</hi> and Rolls Chappel.</note> That either former Kings understood their own Right to Grant Offices, or had Knowing and Honest Ministers for the Office of Prothonotary, Register, Clark of the Crown, Incorporation of the Six Clarks, Cursiters, and others in Chancery; The <hi>Custos Brevium,</hi> Clark of the Crown, Chief Clark or Prothonotary, and others in the <hi>Kings-Bench:</hi> The <hi>Cus<g ref="char:EOLhyphen"/>tos Brevium</hi> Chyrographer Clark of the Treasury, and others in the Common Pleas; The Treasurer, Remembrancer, Clark of the Pipe and others in the Ex<g ref="char:EOLhyphen"/>chequer <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and enjoyed by the Gran<g ref="char:EOLhyphen"/>tees <hi>Pari Ratione,</hi> Their MAJESTIES may Grant all other Offices of like Nature and Tenure.</p>
+               <p>When any Minister under colour of his Office Challenged the Right of Granting some of the said Offices, and the dispute between them and the KING, about the Right, came to be fairly Debated. <note place="margin">Dyer 225</note>
+                  <hi>It was Adjudged,</hi> That <note n="*" place="margin">Hob. Rep. 146.</note> such Acts of Parliament as impowred the Ministers to do what the KING had Right to do, shall not bar or take away the KINGS Right; but that the same remaineth full and perfect: Because such Acts were intended to ease the KING of La<g ref="char:EOLhyphen"/>bour, not to deprive him of his Power and Prerogative, which <note n="*" place="margin">Inst. 1 Part. fol. 119. Inst. 2 Part fol. 436.</note> is part of the Laws of <hi>England,</hi>
+               </p>
+               <p>That Acts wherein the KING is not named <note n="†" place="margin">Inst. 1 Part. fol. 43. b.</note> shall not bar or take away the KINGS Right. That <note n="*" place="margin">Mag. Col. <hi>Case. Cooks</hi> 11 Rep.</note> General Words in Grants, or Acts of Parliament, Use, Custom or Prescription, shall not Devest the Crown of any thing Originally and of Right belonging to it.</p>
+               <p>
+                  <note n="*" place="margin">Inst. 2 Part. fol. 15.</note> That not any can Prescribe to the Temporalties of a Bishop, because they are incident to the Person of the KING as Patron and Protector of the Church. That <note n="†" place="margin">Inst. 1 Part. fol. 117.</note> all Courts of Justice are the KINGS; And Offices are incident to the Administration, which is inseperably United and Annexed to the Imperial Crown and Dignity, and incident to his Person as Supreme Administrator of Justice: And <note n="*" place="margin">Hob. Rep. 261.</note> not any thing can go out of or from the Crown, but by Special Grant; Because <note n="†" place="margin">Hob. Rep. 226. 342.</note> all the People of <hi>England</hi> have an Interest in the Rights of the Crown.</p>
+               <p>
+                  <note n="*" place="margin">Hob. Rep. 347.</note> Where the Crown hath a Right it cannot lose it, and not any thing shall pass out of the Crown but by Special Grant: Neither shall Officers Compact defeat the Crown: And <note n="†" place="margin">Inst. 4 Part. fol. 100.</note> not any Inferior Office was ever Granted by Name to any Minister or Judge; Because <note n="*" place="margin">Hob. Rep. 155. <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3. Edw. 1. cap. 44.</note> by the Antient Rule in Law, not any is to enjoy two Offices, † And Rules in Law cannot be broken without doing Abuse and Deceit to the KING. And Judges are charged upon Faith and Oath to Pu<g ref="char:EOLhyphen"/>nish: But if they in their own right Grant Offices, they are Punishable them<g ref="char:EOLhyphen"/>selves when their Officers offend; and it's against a Rule in Law for any to be Judge and Party.</p>
+               <p>That when King <hi>Henry</hi> the VIII. Granted the Disposition of Felons Goods <hi>de se</hi> to his <hi>Almoner,</hi> and without revoking the same, Granted divers Felons Goods to one <hi>Hales;</hi>
+                  <note place="margin">Cooks Rep. Alton Woods <hi>Case.</hi>
+                  </note> and the <hi>Almoner</hi> disputed the Right, because the <hi>Stat. 6 Hen.</hi> 8. cap. 15. Saith, <hi>All after Grants shall be void, if the first be not recited and revoked:</hi> Yet it was Adjudged, That the Kings Grant to <hi>Hales</hi> was good against the <hi>Al<g ref="char:EOLhyphen"/>moner,</hi> because he was only a Minister in Trust for the King: And Great Mini<g ref="char:EOLhyphen"/>sters are no other, neither have they such express Grants of the Disposition of Inferior Offices, as the <hi>Almoner</hi> had of Felons Goods.</p>
+               <p>King <hi>Edward</hi> the I. Granted the Office of Master of the <hi>Rolls</hi> to one for Life, and settled the Disposition to be afterward in the gift of the Chancellor and Keeper of the Great Seal for the time being: <note place="margin">Inst. 3 Part. fol. 95, 96. 9 Edw. 4. fol. 6, 7.</note> Yet it was Adjudged when the Grantee died, that it was in the Kings Gift still, notwithstanding the Settlement: And <note n="†" place="margin">18 Edw. 4. fol. 7. Dyer. 176.</note> many other Offices disputed were so Adjudged to be in the Kings Gift.</p>
+               <p>Judges are but Temporary Ministers, and their Office and Estate therein ter<g ref="char:EOLhyphen"/>minates upon their Death or Removal, <note place="margin">18 Edw. 4. fol. 7. Hob. Rep. 153.</note> yet they of late Years have granted Of<g ref="char:EOLhyphen"/>fices under them to others; some for one, others for two Lives, which Grants are illegal, and against the Rules in Law; which saith, <hi>That not any shall transfer a greater Estate than he hath.</hi>
+               </p>
+               <p>The <hi>Stat.</hi> 5 and 6 <hi>Edw.</hi> 6. cap. 16. expresly provides, That such as have an Inheritance in Offices may sell, and the Original end and Institution of Offices, was for the support of the Administration, which is inseparably United and An<g ref="char:EOLhyphen"/>nexed to the Imperial Crown and Dignity. Therefore Their MAJETIES, well Intituled to Offices, and all Hereditary Rights belonging to the Imperial Crown and Dignity, may reasonably make that advantage of Temporal Offices they do of Spiritual Benefices; and every Person so coming into Office will have one Moiety to live on, while the other is paying to Their MAJESTIES, and every Person equally Quallified for (are equally Intitled to) Publick Offices, which throughout the Kingdom at a moderate Valuation exceeds 1000000 <hi>l.</hi> Yearly, and so often fall void, that taking one with another. Their MAJESTIES will get above 150000 <hi>l.</hi> every Year, and the People coming into Offices will save above seven times as much as Their MAJESTIES will get Considering the Rate Offices are now Sold at in Courts of Justice, and four times as much as Of<g ref="char:EOLhyphen"/>fices sell in the Houshold, and this way of disposing of Offices will support the Administration, which is now a very great Charge and Burthen to the Crown, and will make a right Administration of Justice, which will be a greater Advantage to the Crown and People, than the first Years Profits of Offices to free the Peo<g ref="char:EOLhyphen"/>ple of so much in New Aids and Taxes.</p>
+               <p>He that considers how the Fees vary as Officers, <hi>&amp;c.</hi> are in their de<g ref="char:EOLhyphen"/>mands, and how exacting some are to others, will agree that it's fit to assertain the Fees of Lawyers, Officers, <hi>&amp;c.</hi>
+                  <note place="margin">Note, <hi>That the Parlia<g ref="char:EOLhyphen"/>ment thought fit to decrease the Number of Attorneys, be<g ref="char:EOLhyphen"/>cause they make the People poor by fomenting Suits.</hi> Inst. 2 Part. fol. 250 and 578.</note> The Bill is only to have the <hi>Stat. 3 Jac.</hi> 1. cap. 7. put in Execution, and the Table of Fees hung up in every Court and Office, which were made by the Advice of former Kings and Councel, and by Juryes of Old Officers: Had not the due Fees been set down in one Collum, and the Exacted in another, the Officers might happily have let them remained to Pub<g ref="char:EOLhyphen"/>lick view, but like the <hi>Papists,</hi> they are for razing out what is writ of their Cor<g ref="char:EOLhyphen"/>ruptions in lasting Monuments, though it's Felony to Imbeazle Records.</p>
+               <p>Laws not Executed are but <hi>Capita Mortua,</hi> and ill Executed, are Goads in the sides of Government; Therefore the Wisdom of the Law-Makers Established Penalties for the Punishment of such as disturb either Crown or People in their Rights, Liberties and Properties, and took extraordinary care, that they might be duely Answer'd, to support the Crown in doing it self and People Justice. As 51 <hi>Hen. 3. Stat. Scaccarii. 10 Edw. 1 Stat. Rut. 27 Edw.</hi> 1. cap. 2. 9 <hi>Edw.</hi> 3. cap. 5. 12 <hi>Rich.</hi> 2. cap. 10. 6 <hi>Hen.</hi> 4. cap. 3. 7 <hi>Hen.</hi> 4. cap. 3. 1 <hi>Hen.</hi> 5 cap. 4. 4 <hi>Hen.</hi> 5. cap. 2. 23 <hi>Hen.</hi> 6. cap. 10. 11 <hi>Hen.</hi> 7. cap. 15. 27 <hi>Hen.</hi> 8. cap. 24. 7 <hi>Edw.</hi> 6. cap. 1. 18 <hi>Eliz.</hi> cap. 5. 27 <hi>Eliz.</hi> cap. 10. 21 <hi>Jac.</hi> 1. cap. 4. 22 and 23 <hi>Car. 2. 22. 1 Jac.</hi> 2.</p>
+               <p>
+                  <hi>Henry</hi> the III. was told by the Parliament, that Fines and Forfeitures well managed were sufficient to fill his Coffers: <note place="margin">Spelmans Glossary.</note> Whereupon he Punished <hi>Hugh de Burgh</hi> for neglect, and made Orders for the better management thereof.</p>
+               <p>King <hi>Edward</hi> the I. allotted his Judges no Salaries, but what were paid out of Fines and Forfeitures, to make them careful thereof, <note place="margin">Extenta Maner int. Record. apud Recept' Scaccarii 4 Edw. 1. 12 Rich. 2. cap. 10. 14 Rich. 2. cap. 11.</note> and the Parliament liked his Contrivance so well, that they Petitioned <hi>Richard</hi> the II. to pay his Justices accordingly: And the Justices of the Peace's Wages are paid thereout at this day by force of the Laws then made.</p>
+               <p>King <hi>James</hi> the I. by Advice of his Councel for the better management of the said Revenue arising by Fines and Forfeitures and old Duties upon proceedings in Law and Equity, <note place="margin">Vernons <hi>Books of the Excheq</hi>
+                  </note> made Orders which hung up in Tables until the Officers Imbezled the same.</p>
+               <p>The Law ever looked upon the Injurious Acts of Persons in Office worse then robbing on the High-Way: For that wresting the Law, or Executing it partially, may destroy Men and their Posterities, and many littles makes a great deal: And many thousand Abuses are committed so Covertly, that few be discovered, and those were ever Exemplarily Punished, as appears by <hi>Jerome, Vaughan, Beecher</hi> Earl of <hi>Devonshires</hi> Cases, and others, wherewith the Reports of the Law are full fraught in all Reigns before 1641.</p>
+               <p>Among the many Examples of Persons Punished, the most remarkable is that of Judge <hi>Ingham,</hi>
+                  <note place="margin">Cook. Inst. 4 Part. so. 255.</note> who for abating but 6 <hi>s. 8 d.</hi> of a Fine due to the King, was made to build the Clock-House at <hi>Westminster,</hi> and hung the great Bell therein, which cost him 800 Marks, that the Judges and Officers may be put in mind of their Oaths when they hear the Clock strike; and it made such Impression upon Judge <hi>Southcote</hi> in the Reign of Queen <hi>Elizabeth,</hi> that he being desired to shew favour, said, <hi>He was not for building another Clock-House.</hi>
+               </p>
+               <p>All Laws are to be expounded most beneficially to make them answer the true end for suppressing such Evils as were intended to be redressed thereby, and the Construction which the Judges make of the Laws, for them to sell, is repugnant to what the Law intended to remedy, and illegal.<note place="margin">Plow. Com. 563. Dyer 231. 313. Brooke 77. Inst. 1 Part. 381. Cook Rep. Alton Woods <hi>Case.</hi> Heydons <hi>Case.</hi>
+                  </note>
+               </p>
+               <p>King <hi>Edward</hi> the III. looking upon the Contingent Fees and Perquesites of Judges to be the Cause of his Subjects complaint of his own breach of Oath, <note place="margin">Vide <hi>The Preface of the Stat.</hi> 20 Edw. 3.</note> in not seeing the Laws impartially Executed, Declared the same to his Parliament; And the first Act of that Session provides against Judges taking Fee, Gift, or ought of Value of any private Person have to do before them; and declares, that the Salaries are inlarged and made certain upon that Accompt: And although the Laws aforesaid are in being unaltered, yet the Officers in their Petition to the Lords in Parliament lately against a Bill for this purpose, set out Offices to be their Free-holds by Purchase of the Judges, and the Judges insisted upon Fees and Perquisits to be due to them.</p>
+               <p>
+                  <note place="margin">Note, <hi>That this Bill will reduce the Administration of Justice to the right Chan<g ref="char:EOLhyphen"/>nel, and the Crown and Peo<g ref="char:EOLhyphen"/>ple will get and save as much by reducing it; as the first Years Profits of Offices will amount unto; Besides what Fines, Forfeiture, and Du<g ref="char:EOLhyphen"/>ties upon Preceeding in Law and Equity will bring in when duly Answered.</hi>
+                  </note> They that consider how much Money goes out of the Peoples pockets by unreasonable Levys and Exactions which Officers take without Accompt, what is deducted out of every Pound duly Collected and paid into and out of the <hi>Exchequer,</hi> and that the Officers have 50 <hi>s.</hi> for every 5 <hi>s.</hi> the KING gets upon the Composition of Fines and Forfeitures, and how Petitioners good Services for want of Money and Friends at Court go unrewarded; and Suitors in <hi>Forma Pau<g ref="char:EOLhyphen"/>peris</hi> at the Barr of Justice have been used: And what it hath cost these Nations to Suppress the many Insurrections and Rebellions Recorded in History occasioned by Ministers Injustice and Nigardly disposition of the Publick Treasure, Offices and Benefices to such as deserve them; and liberal Disposition to Purchasers or others who deserve them not, and all by Ministers making most Perquisits and Profits of their places; And how Trading and Trafficking with Offices, Oaths and Laws is kept on foot, because some few had rather the Nation perished, than they will forego their indirect Gain will agree; That not any thing but a right Disposition of Offices and Places of Publick Trust will heal our Distempers, and secure the Government.</p>
+               <p>And Undoubtedly the Members of the Honourable Committee of the <hi>House of Commons,</hi> was of that Opinion when they Resolved Last Session to move the House for leave to bring in a Bill to hinder the Sale of Offices.</p>
+            </div>
+            <div type="section">
+               <head>For to Assertain Officers and Attorneys Fees.</head>
+               <p>For Their MAJESTIES to have the first Years Profits of Offices as they become void, payable in two Years time.</p>
+               <p>And to lay the Persons Case before the House, who had suffered deeply for discharge of Oath and Duty, in making out and prosecuting his Proposals.</p>
+               <p>And the House agreeing to the two first Resolutions with some Amendments, induce most People to believe, That had not the House broken up before the day appointed to consider there<g ref="char:EOLhyphen"/>of; That the two last had been agreed with also.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:171340:2"/>
+            <p>THE CONTENTS OF A BILL AGAINST Buying and Selling Offices, AND TO Make a right Disposition of Offices for the future.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
